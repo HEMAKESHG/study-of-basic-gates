@@ -83,7 +83,7 @@ endmodule
  RegisterNumber: 212223040064
  
 **Logic symbol & Truthtable**
-![360523486-6aa4c3d1-38db-4783-9408-11a9a82bfc65](https://github.com/user-attachments/assets/7e29e133-49bb-4612-bdbc-254778294a8a)
+![Screenshot 2024-10-16 102900](https://github.com/user-attachments/assets/daefae31-5224-47dd-a045-f2e45829d40a)
 
 **RTL realization Output:** 
 ![Screenshot 2024-08-22 223142](https://github.com/user-attachments/assets/0166dead-04c6-410e-a499-2c91b2cd654a)
