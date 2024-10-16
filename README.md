@@ -88,10 +88,10 @@ endmodule
 **Logic symbol & Truthtable**
 ![Screenshot 2024-10-16 102900](https://github.com/user-attachments/assets/daefae31-5224-47dd-a045-f2e45829d40a)
 
-**RTL realization Output:** 
+**RTL:** 
 ![Screenshot 2024-08-22 223142](https://github.com/user-attachments/assets/0166dead-04c6-410e-a499-2c91b2cd654a)
 
-**RTL timing waveform:**
+**Timing waveform:**
 ![Screenshot 2024-08-22 223102](https://github.com/user-attachments/assets/555db5cd-af7f-4ced-a841-f67426964ab7)
 
 **Result:**
