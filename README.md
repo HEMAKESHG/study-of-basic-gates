@@ -65,6 +65,11 @@ Y= A⊕B
 **PROGRAM**
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
+
+```
+ Developed by:Hemakesh G
+ RegisterNumber: 212223040064
+```
 ```
 module exp_01(a,b,c1,c2,c3,c4,c5,c6,c7);
 input a,b;
@@ -79,8 +84,6 @@ xnor g7(c7,a,b);
 endmodule
 ```
 
- Developed by:Hemakesh G
- RegisterNumber: 212223040064
  
 **Logic symbol & Truthtable**
 ![Screenshot 2024-10-16 102900](https://github.com/user-attachments/assets/daefae31-5224-47dd-a045-f2e45829d40a)
@@ -88,7 +91,7 @@ endmodule
 **RTL realization Output:** 
 ![Screenshot 2024-08-22 223142](https://github.com/user-attachments/assets/0166dead-04c6-410e-a499-2c91b2cd654a)
 
-**RTL**
+**RTL timing waveform:**
 ![Screenshot 2024-08-22 223102](https://github.com/user-attachments/assets/555db5cd-af7f-4ced-a841-f67426964ab7)
 
 **Result:**
