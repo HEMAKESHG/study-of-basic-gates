@@ -85,7 +85,7 @@ endmodule
 ```
 
  
-**Logic symbol & Truthtable**
+**Truthtable**
 ![Screenshot 2024-10-16 102900](https://github.com/user-attachments/assets/daefae31-5224-47dd-a045-f2e45829d40a)
 
 **RTL:** 
